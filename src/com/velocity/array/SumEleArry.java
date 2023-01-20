@@ -3,6 +3,7 @@ package com.velocity.array;
 public class SumEleArry {
 
 	public static void main(String[] args) {
+		// calculate sum and average
 		int a[] = {7,9,8,5,3};
 		int sum =0;
 		int avg =0;  
